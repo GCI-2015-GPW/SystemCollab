@@ -9,3 +9,4 @@ How it works is it runs a VM (or docker, haven't decided yet) behind the scenes,
 * Amasing modularity. Because this is a linux VM, there is no restrictions: do whatever you want
 
 
+[![Gitter](https://badges.gitter.im/GCI-2015-GPW/SystemCollab.svg)](https://gitter.im/GCI-2015-GPW/SystemCollab?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
